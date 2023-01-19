@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/azure-3670A0?style=for-the-badge&logo=azuredevops&logoColor=ffdd54" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/csharp-3670A0?style=for-the-badge&logo=csharp&logoColor=ffdd54" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/bootstrap-563d7c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Sqlite-20639B.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;&nbsp;
