@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 [<img align="center" alt="AyushAher | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 [<img align="center" alt="AyushAher | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 [<img align="center" alt="AyushAher | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>][gmail]
+[<img align="center" alt="AyushAher | DEV" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-512.png"/>][DEV]
+
 </h1>
 
 <h1 align="center">Github Stats 📈
