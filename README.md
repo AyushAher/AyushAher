@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects based on React, Angular, and MySQL!
 - 💬 Ask me about anything C# .Net  
 - 📫 How to reach me: On any of my socials
-- ⚡ Fun fact: I dont have a life
+- ⚡ Fun fact: I dont have a Life, I can say no to my Boss
 </h3>
 <br />
 <br>
