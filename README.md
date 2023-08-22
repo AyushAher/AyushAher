@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 
 <h3>
   
-- 🔭 I’m currently a Software Engineering Intern
-- 🌱 I’m currently learning Azure Devops
+- 🔭 I’m currently a Jr. Full Stack Developer
+- 🌱 I’m currently Working on a New Idea
 - 👯 I’m looking to collaborate on projects based on React, Angular, and MySQL!
 - 💬 Ask me about anything C# .Net  
 - 📫 How to reach me: On any of my socials
-- ⚡ Fun fact: I dont have a Life, I can say no to my Boss
+- ⚡ Fun fact: I do have a Life, I can say no to my Boss
 </h3>
 <br />
 <br>
