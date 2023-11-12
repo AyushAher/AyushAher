@@ -67,7 +67,8 @@ Here are some ideas to get you started:
 </p>  
      
 
-[linkedin]: https://www.linkedin.com/in/ayushaher118/
-[instagram]: https://www.instagram.com/ayushaher118/
-[gmail]: ayushaher118@gmail.com
+[Linkedin]: https://www.linkedin.com/in/ayushaher118/
+[Instagram]: https://www.instagram.com/ayushaher118/
+[Gmail]: ayushaher118@gmail.com
 [Dev]: https://dev.to/ayushaher
+[Website]:https://ayush.ramson-developers.com/
