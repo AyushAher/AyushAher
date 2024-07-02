@@ -11,12 +11,9 @@ Here are some ideas to get you started:
 
 <h3>
   
-- 🔭 I’m currently a Jr. Full Stack Developer
+- 🔭 I’m currently a Sr. Full Stack Developer
 - 🌱 I’m currently Working on a New Idea
-- 👯 I’m looking to collaborate on projects based on React, Angular, and MySQL!
-- 💬 Ask me about anything C# .Net  
 - 📫 How to reach me: On any of my socials
-- ⚡ Fun fact: I do have a Life, I can say no to my Boss
 </h3>
 <br />
 <br>
@@ -49,8 +46,6 @@ Here are some ideas to get you started:
 [<img align="center" alt="AyushAher | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 [<img align="center" alt="AyushAher | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 [<img align="center" alt="AyushAher | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>][gmail]
-[<img align="center" alt="AyushAher | DEV" width="50px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png"/>][Dev]
-
 </h1>
 
 <h1 align="center">Github Stats 📈
@@ -70,5 +65,4 @@ Here are some ideas to get you started:
 [Linkedin]: https://www.linkedin.com/in/ayushaher118/
 [Instagram]: https://www.instagram.com/ayushaher118/
 [Gmail]: ayushaher118@gmail.com
-[Dev]: https://dev.to/ayushaher
 [Website]:https://ayush.ramson-developers.com/
