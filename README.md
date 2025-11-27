@@ -26,9 +26,8 @@ With expertise in **C# / .NET**, **React / Angular / Blazor**, **MySQL / Databas
 - 🔭 Interesting backend/frontend/DevOps projects & freelance work.  
 
 ## 📫 Get In Touch  
-- LinkedIn: [your-linkedIn-url]  
-- Portfolio / Website: [your personal site or portfolio]  
-- Email: [your email]  
+- LinkedIn: [https://www.linkedin.com/in/ayushaher118](https://www.linkedin.com/in/ayushaher118/)    
+- Email: [ayushaher118@gmail.com](mailto:ayushaher118@gmail.com)  
 
 ## 📊 GitHub Stats  
 ![Ayush’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushAher&show_icons=true)  
