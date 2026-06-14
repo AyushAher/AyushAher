@@ -2,7 +2,7 @@
 
 ## Building Security, Infrastructure & Developer Platforms
 
-Senior Full-Stack .NET Developer, infrastructure builder, and startup founder focused on cybersecurity, cryptography, HSMs, PKI, and enterprise infrastructure.
+Senior Full-Stack .NET Developer, infrastructure builder, and focused on cybersecurity, cryptography, HSMs, PKI, and enterprise infrastructure.
 
 I enjoy building products that sit at the intersection of:
 - Security
@@ -58,6 +58,7 @@ Developing a platform for managing:
 ## Areas of Interest
 
 - Cryptography
+- Certificate Lifecycle Management
 - Hardware Security Modules (HSM)
 - Zero Trust Architecture (ZTA)
 - Infrastructure Automation
@@ -77,12 +78,6 @@ Developing a platform for managing:
 - CIM
 
 More projects are available throughout my repositories covering enterprise applications, infrastructure automation, client projects, and experimental security tooling.
-
----
-
-## Current Goal
-
-Building a cybersecurity company that delivers practical security products for SMEs while expanding into cryptography, compliance, and enterprise security solutions.
 
 ---
 
