@@ -1,34 +1,100 @@
-# Hi there 👋, I’m Ayush Aher
+# Ayush Aher
 
-## 🚀 About Me  
-I’m a Senior Full-Stack Developer with a passion for building scalable, robust applications — from backend APIs to user-friendly frontends — and automating infrastructure deployments.  
-With expertise in **C# / .NET**, **React / Angular / Blazor**, **MySQL / Databases**, and **DevOps / Kubernetes / CI-CD**, I enjoy delivering end-to-end solutions and deploying them reliably in cloud / container environments.
+## Building Security, Infrastructure & Developer Platforms
 
-## 💡 What I’m Good At  
-| Area | Technologies / Tools |
-|------|----------------------|
-| **Backend** | C#, .NET (Core / MVC / API), Entity Framework, REST / WebAPIs |
-| **Frontend** | React, Angular, Blazor, HTML5, CSS3, JavaScript / TypeScript |
-| **DevOps & Infra** | Kubernetes, Docker, Ansible, CI/CD pipelines, Azure DevOps, YAML automation |
-| **Database / Storage** | MySQL, SQL Server, ORM & schema design |
-| **Others** | Secure authentication (JWT), Email services (SMTP), YAML processors / scripting |
+Senior Full-Stack .NET Developer, infrastructure builder, and startup founder focused on cybersecurity, cryptography, HSMs, PKI, and enterprise infrastructure.
 
-## 🔧 Recent / Highlighted Projects  
-- **SecureJwt** — .NET library for robust JWT-based authentication with support for key rotation & fingerprint validation.  
-- **UtilEmail** — Utility library to send emails via SMTP using .NET.  
-- **Hyperspan.Base.Api** — Clean-architecture template to build scalable SPAs with ASP.NET Core + React/Angular.  
-- **Kubernetes-Ansible** — Ansible playbooks to provision Kubernetes clusters from scratch, automate infra setup and deployments.  
-*(see ↗️ pinned repos for full details)*
+I enjoy building products that sit at the intersection of:
+- Security
+- Infrastructure
+- Automation
+- Developer Experience
+- Hardware + Software Integration
 
-## 🎯 What I’m Working On / Looking For  
-- 📦 Building a new full-stack / cloud-native product (currently under development).  
-- 🤝 Open-source collaborations — especially around infrastructure automation, DevOps tooling, or full-stack utilities.  
-- 🔭 Interesting backend/frontend/DevOps projects & freelance work.  
+---
 
-## 📫 Get In Touch  
-- LinkedIn: [https://www.linkedin.com/in/ayushaher118](https://www.linkedin.com/in/ayushaher118/)    
-- Email: [ayushaher118@gmail.com](mailto:ayushaher118@gmail.com)  
+## What I'm Working On
 
-## 📊 GitHub Stats  
-![Ayush’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushAher&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AyushAher&layout=compact)  
+### Averon Cipher
+Building a cybersecurity platform focused on:
+- Cryptographic asset management
+- PKI and certificate lifecycle management
+- HSM integrations
+- PKCS#11 tooling
+- Vulnerability intelligence for cryptographic assets
+- Compliance and governance capabilities
+
+### Infrastructure Management Platform
+Developing a platform for managing:
+- Physical servers
+- Virtual machines
+- Storage systems
+- Networks and VLANs
+- User access and operations
+- Hybrid infrastructure environments
+
+### Hardware Projects
+- IP-KVM development using ESP32
+- Server power management hardware
+- PCIe-based management card concepts
+- Embedded monitoring and automation systems
+
+---
+
+## Core Expertise
+
+| Area | Technologies |
+|--------|--------|
+| Backend | C#, .NET, ASP.NET Core, REST APIs, Entity Framework |
+| Frontend | React, Blazor, Angular, TypeScript |
+| Infrastructure | Linux, Docker, Kubernetes, Ansible |
+| Security | PKI, TLS, PKCS#11, HSM Integration, Authentication Systems |
+| Databases | SQL Server, MySQL, PostgreSQL, MongoDB |
+| Cloud & DevOps | CI/CD, GitHub Actions, Azure DevOps |
+| Hardware | ESP32, Embedded Systems, Remote Management |
+
+---
+
+## Areas of Interest
+
+- Cryptography
+- Hardware Security Modules (HSM)
+- Zero Trust Architecture (ZTA)
+- Infrastructure Automation
+- Platform Engineering
+- Cybersecurity Products
+- Enterprise Systems
+- Open Source Security Tooling
+
+---
+
+## Featured Repositories
+
+- Kubernetes-Ansible
+- Yaml_Processor
+- Portfolio
+- TradersDashboard
+- CIM
+
+More projects are available throughout my repositories covering enterprise applications, infrastructure automation, client projects, and experimental security tooling.
+
+---
+
+## Current Goal
+
+Building a cybersecurity company that delivers practical security products for SMEs while expanding into cryptography, compliance, and enterprise security solutions.
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/ayushaher118/
+- Email: ayushaher118@gmail.com
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushAher&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AyushAher&layout=compact)
